@@ -1,0 +1,3 @@
+[console_scripts]
+lambda-uploader = lambda_uploader.shell:main
+

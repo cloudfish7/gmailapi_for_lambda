@@ -1,0 +1,18 @@
+Metadata-Version: 2.0
+Name: lambda-uploader
+Version: 0.5.0
+Summary: AWS Python Lambda Packager
+Home-page: https://github.com/rackerlabs/lambda-uploader
+Author: Rackers
+Author-email: jim.rosser@rackspace.com
+License: Apache 2.0
+Keywords: aws lambda
+Platform: UNKNOWN
+Classifier: Programming Language :: Python
+Classifier: Programming Language :: Python :: 2.7
+Requires-Dist: boto3 (==1.2.2)
+Requires-Dist: virtualenv
+
+UNKNOWN
+
+
